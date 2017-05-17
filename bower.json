@@ -1,0 +1,20 @@
+{
+  "name": "My first bootstrap project",
+  "homepage": "https://github.com/lauIt03/ProjectOne",
+  "authors": [
+    "Laura Itzel"
+  ],
+  "description": "how to use basic bootstrap classes",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
